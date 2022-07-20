@@ -1,4 +1,4 @@
-# NewAnimepy
+# NewAnimepy0.0.2
 An anime crawler for [anigamer](https://ani.gamer.com.tw/)
 
 ## Installation
