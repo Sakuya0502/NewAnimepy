@@ -2,6 +2,9 @@
 An anime crawler for [anigamer](https://ani.gamer.com.tw/)
 
 ## Installation
+```
+pip install newanimepy
+```
 
 ## Usage
 You can use it to get new anime and search result of anigamer
